@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sashahelms
-- 👀 I’m interested in advancing my skills as a developer, deepend my knowledge of Javascript and Javascript Frameworks.
+- 👀 I’m a full-stack web developer currently working as web analytics and data collection engineer at Seer Interactive. 
 
 <!---
 sashahelms/sashahelms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
